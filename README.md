@@ -4,10 +4,16 @@ This is PyTorch implementation of Constrained Policy Optimization (CPO) [[ArXiv]
 
 If you use this code in your research project please cite us as:
 ```
-@article{harshit sikchi_2021, title={hari-sikchi/pytorch_CPO: CPO}, 
-DOI={10.5281/zenodo.5121027}, 
-abstractNote={<p>Pytorch implementation of CPO</p>}, publisher={Zenodo},
-author={Harshit Sikchi}, year={2021}, month={Jul}}
+@software{harshit_sikchi_2021_5121027,
+  author       = {Harshit Sikchi},
+  title        = {hari-sikchi/pytorch\_CPO: CPO},
+  month        = jul,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.5121027},
+  url          = {https://doi.org/10.5281/zenodo.5121027}
+}
 ```
 
 ## Requirements
