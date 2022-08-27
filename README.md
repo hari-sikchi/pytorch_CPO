@@ -4,8 +4,10 @@ This is PyTorch implementation of Constrained Policy Optimization (CPO) [[ArXiv]
 
 If you use this code in your research project please cite us as:
 ```
-@misc{Sikchi_pytorchCPO,
+@software{Sikchi_pytorch-CPO,
 author = {Sikchi, Harshit},
+doi = {10.5281/zenodo.5121027},
+license = {MIT},
 title = {{pytorch-CPO}},
 url = {https://github.com/hari-sikchi/pytorch_CPO}
 }
