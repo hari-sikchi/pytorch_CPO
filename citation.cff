@@ -10,4 +10,5 @@ license: MIT
 message: "If you use this software, please cite it using these metadata."
 repository-code: "https://github.com/hari-sikchi/pytorch_CPO"
 title: "pytorch-CPO"
+doi: 10.5281/zenodo.5121027
 ...
